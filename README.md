@@ -1,2 +1,2 @@
-# Web_Vulnability_Scaner
+# Web_Vulnability_Scanner
 Detects malware.
