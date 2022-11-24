@@ -47,7 +47,7 @@ hr {
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 100%;
+  width: 25%;
   opacity: 0.9;
 }
 
@@ -82,10 +82,10 @@ a {
       <label for="email"><b>Email</b></label>
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
-      <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="password" id="password required>
+      <label for="password"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="password" id="password" required>
 
-      <label for="pswr"><b>Repeat Password</b></label>
+      <label for="password_confirmation"><b>Repeat Password</b></label>
       <input type="password" placeholder="Confirm Password" name="password_confirmation" id="password_confirmation" required>
     <hr>
 
